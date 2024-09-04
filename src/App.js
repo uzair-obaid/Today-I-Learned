@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import "./style.css";
-import { findAllByDisplayValue } from "@testing-library/react";
 import supabase from "./supabase";
 
 const CATEGORIES = [
