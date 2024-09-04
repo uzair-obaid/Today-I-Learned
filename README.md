@@ -1,5 +1,7 @@
 Today I Learned (TIL) - Web App
 
+Deployment link:https://today-i-learned-facts-app.netlify.app/
+
 Overview
 Today I Learned (TIL) is a simple and engaging web application where users can share interesting facts with the world. Users can categorize their facts, and the community can vote on how interesting or mind-blowing the facts are. The app is built using React and Supabase, providing a smooth and interactive user experience.
 
@@ -12,3 +14,4 @@ Tech Stack
 Frontend: React, CSS
 Backend: Supabase (for database and authentication)
 Deployment: Netlify
+
